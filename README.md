@@ -1,4 +1,4 @@
-# Montw Carlo Asian Option Pricing
+# Monte Carlo Asian Option Pricing
 ## Project Overview
 
 This project implements a Monte Carlo simulation framework to estimate the theoretical value of arithmetic-average Asian call options using Geometric Brownian Motion (GBM).
